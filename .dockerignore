@@ -1,0 +1,5 @@
+# Ignore all except key files
+*
+!package.json
+!yarn.lock
+!src/
