@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "echo 'Building the app...' && mkdir -p dist && echo '<h1>Hello, World!</h1>' > dist/index.html",
-    "start": "echo 'Starting the app...' && cat dist/index.html"
+    "build": "echo 'Building the app...'",
+    "start": "echo 'Starting the app...'"
   }
 }
