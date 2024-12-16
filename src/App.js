@@ -1,11 +1,11 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to My React App!</h1>
-      <p>Edit <code>src/App.js</code> and save to reload.</p>
+      <h1>欢迎来到我的 React 应用！</h1>
+      <p>这是一个简单的 React 示例项目。</p>
     </div>
   );
 }
